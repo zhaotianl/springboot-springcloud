@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/microservicecloud/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdept-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumer-dept-80/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdept-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdept-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudcondumer-dept-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdept-hystrix-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumer-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/pom.xml" />
+        <option value="$PROJECT_DIR$/zzzzz/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3344/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

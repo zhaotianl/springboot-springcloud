@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/microservicecloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-config-3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-zuul-gateway-9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudcondumer-dept-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudconsumer-dept-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudconsumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudproviderdept-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudproviderdept-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudproviderdept-8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudproviderdept-hystrix-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zzzzz" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicecloud" />
+        <module name="microservicecloud-api" />
+        <module name="microservicecloud-config-3344" />
+        <module name="microservicecloud-eureka-7001" />
+        <module name="microservicecloud-eureka-7002" />
+        <module name="microservicecloud-eureka-7003" />
+        <module name="microservicecloud-zuul-gateway-9527" />
+        <module name="microservicecloudcondumer-dept-feign" />
+        <module name="microservicecloudconsumer-dept-80" />
+        <module name="microservicecloudconsumer-hystrix-dashboard" />
+        <module name="microservicecloudproviderdept-8001" />
+        <module name="microservicecloudproviderdept-8002" />
+        <module name="microservicecloudproviderdept-8003" />
+        <module name="microservicecloudproviderdept-hystrix-8001" />
+        <module name="zzzzz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservicecloud" target="1.8" />
+      <module name="microservicecloud-api" target="1.8" />
+      <module name="microservicecloud-config-3344" target="1.8" />
+      <module name="microservicecloud-eureka-7001" target="1.8" />
+      <module name="microservicecloud-eureka-7002" target="1.8" />
+      <module name="microservicecloud-eureka-7003" target="1.8" />
+      <module name="microservicecloud-zuul-gateway-9527" target="1.8" />
+      <module name="microservicecloudcondumer-dept-feign" target="1.8" />
+      <module name="microservicecloudconsumer-dept-80" target="1.8" />
+      <module name="microservicecloudconsumer-hystrix-dashboard" target="1.8" />
+      <module name="microservicecloudproviderdept-8001" target="1.8" />
+      <module name="microservicecloudproviderdept-8002" target="1.8" />
+      <module name="microservicecloudproviderdept-8003" target="1.8" />
+      <module name="microservicecloudproviderdept-hystrix-8001" target="1.8" />
+      <module name="zzzzz" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="microservicecloud" options="-parameters" />
+      <module name="microservicecloud-api" options="-parameters" />
+      <module name="microservicecloud-config-3344" options="-parameters" />
+      <module name="microservicecloud-eureka-7001" options="-parameters" />
+      <module name="microservicecloud-eureka-7002" options="-parameters" />
+      <module name="microservicecloud-eureka-7003" options="-parameters" />
+      <module name="microservicecloud-zuul-gateway-9527" options="-parameters" />
+      <module name="microservicecloudcondumer-dept-feign" options="-parameters" />
+      <module name="microservicecloudconsumer-dept-80" options="-parameters" />
+      <module name="microservicecloudconsumer-hystrix-dashboard" options="-parameters" />
+      <module name="microservicecloudproviderdept-8001" options="-parameters" />
+      <module name="microservicecloudproviderdept-8002" options="-parameters" />
+      <module name="microservicecloudproviderdept-8003" options="-parameters" />
+      <module name="microservicecloudproviderdept-hystrix-8001" options="-parameters" />
+      <module name="zzzzz" options="-parameters" />
+    </option>
+  </component>
+</project>

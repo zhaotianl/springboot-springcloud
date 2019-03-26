@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>microservicecloud</artifactId>
+        <groupId>com.atguigu.springcloud</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../microservicecloud/pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>microservicecloudproviderdept-8002</artifactId>
+<dependencies>
+    <dependency>
+        <groupId>org.mybatis</groupId>
+        <artifactId>mybatis</artifactId>
+        <version>3.5.0</version>
+        <scope>compile</scope>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-eureka -->
+    <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-starter-eureka</artifactId>
+        <version>1.4.6.RELEASE</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-config -->
+    <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-config -->
+    <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-starter-config</artifactId>
+        <version>2.0.2.RELEASE</version>
+    </dependency>
+    <dependency>
+        <groupId>com.atguigu.springcloud</groupId>
+        <artifactId>microservicecloud-api</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <scope>compile</scope>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-actuator -->
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-actuator</artifactId>
+        <version>2.1.3.RELEASE</version>
+    </dependency>
+</dependencies>
+
+</project>
