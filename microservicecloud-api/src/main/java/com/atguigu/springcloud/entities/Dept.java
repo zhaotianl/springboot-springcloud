@@ -24,4 +24,8 @@ public class Dept implements Serializable {
     	println(".......................");
     	sdfsdfsdfdsfdsfdsf;
     }
+	
+	public test(){
+		//git hub dest top
+	}
 }
