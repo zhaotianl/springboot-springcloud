@@ -20,3 +20,4 @@ public class Dept implements Serializable {
         this.dname = dname;
     }
    ///  本地仓库的代码
+    //远程仓库的diamagnetic
