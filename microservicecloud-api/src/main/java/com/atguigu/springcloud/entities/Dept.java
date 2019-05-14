@@ -35,4 +35,13 @@ public class Dept implements Serializable {
 	public test(){
 		//git hub dest top
 	}
+    //测试代码
+    public void test() {
+    	println(".......................");
+    	sdfsdfsdfdsfdsfdsf;
+    }
+	
+	public test(){
+		//git hub dest top
+	}
 }
