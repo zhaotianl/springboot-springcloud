@@ -20,6 +20,6 @@ public class Dept implements Serializable {
         this.dname = dname;
     }
     //测试代码
-   //本地的仓库代码。。。   
+   //测试冲突用的 
 }
-   //远程的仓库代码。。。。。。
+   
