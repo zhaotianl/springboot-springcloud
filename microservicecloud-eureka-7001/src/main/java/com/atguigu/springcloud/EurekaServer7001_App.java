@@ -12,5 +12,6 @@ public class EurekaServer7001_App {
     public static void main(String[] args) {
         SpringApplication.run(EurekaServer7001_App.class, args);
         System.out.println("sdfsdfs");
+        //远程仓库的第二次改变哈哈哈哈
     }
 }
