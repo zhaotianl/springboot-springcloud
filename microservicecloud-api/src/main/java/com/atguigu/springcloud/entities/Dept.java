@@ -19,7 +19,4 @@ public class Dept implements Serializable {
         super();
         this.dname = dname;
     }
-   ///  本地仓库的代码
-    //远程仓库的diamagnetic
-    // 本地仓库的第二次改变
-    //YUANYUANYUANCHENG远程仓库的第二次改变
+   ///  远程仓库测试git 库
