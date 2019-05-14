@@ -20,6 +20,5 @@ public class Dept implements Serializable {
         this.dname = dname;
     }
     //测试代码
-   //本地的仓库代码。。。   
-}
-   //tijioa提交diamagnetic
+   //哦呢one   
+}。
