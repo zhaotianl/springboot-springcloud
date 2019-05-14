@@ -15,56 +15,5 @@ public class Dept implements Serializable {
     private String  db_source;//鏉ヨ嚜閭ｄ釜鏁版嵁搴擄紝鍥犱负寰湇鍔℃灦鏋勫彲浠ヤ竴涓湇鍔″搴斾竴涓暟鎹簱锛屽悓涓�涓俊鎭瀛樺偍鍒颁笉鍚屾暟鎹簱
 
     public Dept(String dname)
-    {
-        super();
-        this.dname = dname;
-    }
-    //测试代码
-    public void test() {
-    	println(".......................");
-    	sdfsdfsdfdsfdsfdsf;
-    }
-    public test03() {
-    	
-    	//eclipse 第3次提交改变
-    	1220
-    }
-
-
-	
-	public test(){
-		//git hub dest top
-	}
-    //测试代码
-    public void test() {
-    	println(".......................");
-    	sdfsdfsdfdsfdsfdsf;
-    }
-	
-	public test(){
-		//git hub dest top
-	}
-    //测试代码
-    public void test() {
-    	println(".......................");
-    	sdfsdfsdfdsfdsfdsf;
-    }
-	
-	public test(){
-		//git hub dest top
-	}
-	
-	pulbicdsfsdfsdfsdfsdf;
-    //测试代码
-    public void test() {
-    	println(".......................");
-    	sdfsdfsdfdsfdsfdsf;
-    }
-	
-	public test(){
-		//git hub dest top
-	}
-	
-	pulbicdsfsdfsdfsdfsdf;
+ //冲突的解决01ll;   
 }
-    p/eclipse 第WIC次提交es]}
