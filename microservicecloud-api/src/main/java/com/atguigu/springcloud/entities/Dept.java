@@ -24,9 +24,9 @@ public class Dept implements Serializable {
     	println(".......................");
     	sdfsdfsdfdsfdsfdsf;
     }
-    public test02() {
+    public test03() {
     	
-    	//eclipse 第二次提交改变
+    	//eclipse 第3次提交改变
     }
 
 
