@@ -10,7 +10,7 @@ public class Config_3344_StartSpringCloudApp {
     public static void main(String[] args)
     {
         SpringApplication.run(Config_3344_StartSpringCloudApp.class,args);
-        Ť   两 个  two  ;;;
+        public ;;;
     }
 
 }
