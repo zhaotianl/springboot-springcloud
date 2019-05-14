@@ -22,3 +22,4 @@ public class Dept implements Serializable {
     //测试代码
    //本地的仓库代码。。。   
 }
+   //远程的仓库代码。。。。。。
