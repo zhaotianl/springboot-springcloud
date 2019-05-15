@@ -11,5 +11,6 @@ public class Eurekaserver7002_App {
     public static void main(String[] args) {
         SpringApplication.run(Eurekaserver7002_App.class, args);
         1321456456455
+            1232211212455664454
     }
 }
